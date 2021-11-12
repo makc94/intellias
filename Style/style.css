@@ -1,0 +1,140 @@
+* {
+  padding: 8px;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid rgb(41, 20, 20);
+  border-radius: 30px;
+}
+.foto__my {
+  width: 210px;
+  height: 270px;
+}
+.contacts {
+  text-align: right;
+}
+.contacts__me {
+  font-weight: 800;
+  padding: 40px 0;
+  font-size: 25px;
+}
+.skill {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+  border: 1px solid rgb(41, 20, 20);
+  border-radius: 30px;
+}
+.skill__name {
+  font-weight: 800;
+  width: 20%;
+}
+.skill__icon {
+  width: 100px;
+  height: 100px;
+}
+.skill__description {
+  line-height: 120%;
+  text-align: justify;
+  width: 80%;
+}
+a {
+  padding: 0;
+  text-decoration: none;
+}
+
+.education {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  border: 1px solid rgb(41, 20, 20);
+  border-radius: 30px;
+}
+.education__name {
+  font-weight: 800;
+  width: 20%;
+}
+.education__icon {
+  width: 100px;
+  height: 100px;
+}
+.education__description {
+  line-height: 120%;
+  text-align: justify;
+  width: 80%;
+}
+.work {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  border: 1px solid rgb(41, 20, 20);
+  border-radius: 30px;
+}
+.work__name {
+  font-weight: 800;
+  width: 20%;
+}
+.work__icon {
+  width: 100px;
+  height: 100px;
+}
+.work__description {
+  line-height: 120%;
+  text-align: justify;
+  width: 80%;
+}
+.course {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  border: 1px solid rgb(41, 20, 20);
+  border-radius: 30px;
+}
+.course__name {
+  font-weight: 800;
+  width: 20%;
+}
+.course__icon {
+  width: 100px;
+  height: 100px;
+}
+.course__description {
+  line-height: 120%;
+  text-align: justify;
+  width: 80%;
+}
+.another {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  border: 1px solid rgb(41, 20, 20);
+  border-radius: 30px;
+}
+.another__name {
+  font-weight: 800;
+  width: 20%;
+}
+.another__icon {
+  width: 100px;
+  height: 100px;
+}
+.another__description {
+  line-height: 120%;
+  text-align: justify;
+  width: 80%;
+}
+
+.footer {
+  display: inline-block;
+  text-align: center;
+}
+.footer__date {
+  width: 64px;
+  height: 64px;
+}
