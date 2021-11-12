@@ -1,3 +1,3 @@
 # intellias
 
-Тестове завдання для intellias
+Тестове завдання для intellias. Лише HTML, CSS, JS.
